@@ -1,1 +1,1 @@
-k8s_yaml(kustomize('./wordpress'))
+k8s_yaml(kustomize('./aga/wordpress'))
